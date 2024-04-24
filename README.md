@@ -2,7 +2,7 @@
 
 Enhance your YouTube™ experience with our Google Chrome™ extension. Instantly mark key moments and create chapters for any video, streamlining content organization and improving viewer navigation.
 
-[![Available in the Chrome Web Store](images/chrome-badge.png)](https://example.com)
+[![Available in the Chrome Web Store](images/chrome-badge.png)](https://chromewebstore.google.com/detail/chaptify/pmefnenghpffpbchjfbilhhidookobak)
 
 ## Easy Access
 
